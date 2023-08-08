@@ -19,5 +19,3 @@
 9. Mobile Responsiveness: A well-designed mobile version of the website is essential, as many users shop on their smartphones and tablets.
 
 These are some of the key elements and content you might find on a typical e-commerce website. A well-crafted and user-friendly site can lead to a positive shopping experience, increased customer satisfaction, and ultimately, better sales and brand loyalty.
-![01](https://github.com/smartykarna/Red-Store-Ecommerce-Website/assets/134276338/d2d95b38-20b2-4051-b555-610a8c97bb77)
-![01](https://github.com/smartykarna/Red-Store-Ecommerce-Website/assets/134276338/1d36f7d1-3984-4c27-ac35-df52b9e759f0)
